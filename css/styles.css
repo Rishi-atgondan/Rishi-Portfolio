@@ -600,6 +600,13 @@ progress {
   height:300px;
 }
 
+.img-fluid3{
+  max-width: 100%;
+  height: auto;
+  width:600px;
+  height:225px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
